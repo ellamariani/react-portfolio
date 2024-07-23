@@ -1,26 +1,26 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Currency Converter",
+    "imageSrc": "projects/currency.png",
+    "description": "Users input an amount and choose a currency, prompting an API call for the exchange rate. The tool then computes and shows the converted amount, providing a handy currency converter in the Chrome browser.",
+    "skills": ["JavaScript", "HTML"],
+    "demo": "https://ellamariani.github.io/google-chrome-extension.github.io/",
+    "source": "https://github.com/ellamariani/currency-converter"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Vue Expense Tracker",
+    "imageSrc": "projects/vue image.png",
+    "description": "An application using Vue 3 and its Composition API, enabling users to seamlessly manage expenses and income with features like adding/removing entries, tracking real-time balances, and locally storing data.",
+    "skills": ["Vue", "CSS", "JavaScript", "HTML"],
+    "demo": "https://ellamariani.github.io/vue-expensetracker/",
+    "source": "https://github.com/ellamariani/vue-expensetracker"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Pixel Art",
+    "imageSrc": "projects/pixel art.png",
+    "description": "Users can craft pixel art with customizable colors for both pen and background, utilize a color grabber, fill shapes with chosen colors, employ a rainbow pen for randomized hues, and apply shading and lightening effects that adapt to background color alterations, all within grids up to 60 x 60 in size.",
+    "skills": ["JavaScript", "CSS", "HTML"],
+    "demo": "https://ellamariani.github.io/pixel-art.github.io/",
+    "source": "https://github.com/ellamariani/pixel-art.github.io"
   }
 ]
