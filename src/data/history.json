@@ -1,4 +1,12 @@
 [
+    {
+    "role": "Software Developer Intern",
+    "organisation": "Federal Reserve",
+    "startDate": "May, 2025",
+    "endDate": "November 2025",
+    "experiences": ["Developed data pipelines to proccess and structure board member speech docuents for analystic use", "Implemented a Retrieval Augmented Generation (RAG) system to power an assistant integrated with FAME data"],
+    "imageSrc": "fedreserve.webp"
+  },
   {
     "role": "PSC",
     "organisation": "Johns Hopkins Outpatient Center",
@@ -6,13 +14,5 @@
     "endDate": "Present",
     "experiences": ["Worked directly with healthcare team to ensure efficient patient flow", "Assist with mediacal record requests, and administrative tasks"],
     "imageSrc": "history/johnshopkins.png"
-  },
-  {
-    "role": "Barista",
-    "organisation": "Dolcezza",
-    "startDate": "March, 2022",
-    "endDate": "Sept, 2023",
-    "experiences": ["Created coffee orders, cleaned and maintained espresso machines", "Learned 40+ coffee drink combinations along with the gelato menu"],
-    "imageSrc": "history/dolcezza.png"
   }
 ]
